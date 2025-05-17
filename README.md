@@ -1,0 +1,2 @@
+# Dark-Web-Onion-Hidden-Service-Web-Forensics-Hashing-Python-Script
+Dancho Danchev's Dark Web Onion Hidden Service Hashing Python Script is an extremely easy and relevant to use in today's modern threat intelligence and cyber threats landscape that basically allows novice and experienced users running a local MySQL server on a Windows 10 host to populate a database of hashed Dark Web Onion URLs for research
